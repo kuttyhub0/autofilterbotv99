@@ -14,7 +14,7 @@ For More Details Click Help Button Below..
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u>How To Use Me!??</u></i></b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
