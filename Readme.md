@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/TMS_Linkz) For Support/Assistance And Our [Channel](https://www.telegram.dog/TMS_Linkz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/kuttyhub) For Support/Assistance And Our [Channel](https://www.telegram.dog/TMS_Linkz) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
